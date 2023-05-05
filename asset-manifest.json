@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kpr-website/static/css/main.69c044cf.css",
+    "main.js": "/kpr-website/static/js/main.269e5595.js",
+    "static/js/787.c3b7c581.chunk.js": "/kpr-website/static/js/787.c3b7c581.chunk.js",
+    "static/media/intro.png": "/kpr-website/static/media/intro.d56d3621f662540c5149.png",
+    "static/media/phone-lines.jpg": "/kpr-website/static/media/phone-lines.98369c107173c1ecd3e9.jpg",
+    "static/media/description.jpg": "/kpr-website/static/media/description.a6da9279868669aceccf.jpg",
+    "static/media/kpr-logo-bg.png": "/kpr-website/static/media/kpr-logo-bg.11facc52ef4f68c69202.png",
+    "static/media/kpr-logo.png": "/kpr-website/static/media/kpr-logo.ff17a29637684ca96a7f.png",
+    "static/media/sajida-logo.webp": "/kpr-website/static/media/sajida-logo.5790617ba6d592cb41b5.webp",
+    "index.html": "/kpr-website/index.html",
+    "main.69c044cf.css.map": "/kpr-website/static/css/main.69c044cf.css.map",
+    "main.269e5595.js.map": "/kpr-website/static/js/main.269e5595.js.map",
+    "787.c3b7c581.chunk.js.map": "/kpr-website/static/js/787.c3b7c581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c044cf.css",
+    "static/js/main.269e5595.js"
+  ]
+}
